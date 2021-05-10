@@ -1,5 +1,6 @@
 # affinidi-pocathon-2021
 An AI chatbot-enabled messaging platform facilitating transfer of Know-Your-Customer data as Verifiable Credentials and performing KYC verification before releasing sensitive policy documents.
+![](https://user-images.githubusercontent.com/33076925/117628241-82634580-b1ab-11eb-81ce-1bf946f6c449.png)
 
 ## How to run
 1. Clone the repository
