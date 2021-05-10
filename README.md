@@ -20,7 +20,7 @@ $ npm install
 $ cp .env.example .env
 ```
 4. Populate credentials in `.env` according to `.env.example`
-5. Run `npm start`
+5. Run `npm start` in the terminal
 6. Start a new terminal, enter into `affinidi-hackathon-holder` folder, install dependencies and packages, copy the `.env.example` into a new `.env` file
 ```
 $ cd ../affinidi-hackathon-holder/
@@ -28,7 +28,7 @@ $ npm install
 $ cp .env.example .env
 ```
 7. Populate credentials in `.env` according to `.env.example`
-8. Run `npm start`
+8. Run `npm start` in the terminal
 9. Start a new terminal, enter into `affinidi-hackathon-telegram-bot-verifier` folder, install dependencies and packages, copy the `.env.example` into a new `.env` file
 ```
 $ cd ../affinidi-hackathon-telegram-bot-verifier/
@@ -36,5 +36,5 @@ $ npm install
 $ cp .env.example .env
 ```
 10. Populate credentials in `.env` according to `.env.example`
-11. Run `npm run dev`
+11. Run `npm run dev` in the terminal
 12. Start `localhost:3000/application` in your browser
