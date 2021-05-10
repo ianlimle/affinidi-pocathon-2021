@@ -2,17 +2,17 @@
 An AI chatbot-enabled messaging platform facilitating transfer of Know-Your-Customer data as Verifiable Credentials and performing KYC verification before releasing sensitive policy documents.
 
 ## How to run
+1. Clone the repository
 ```
 $ git clone git@github.com:ianlimle/affinidi-pocathon-2021.git
 ```
-1. Clone the repository
+2. Install `nodejs` and `npm`, verify the installation version of `nodejs`
 ```
 $ sudo apt update
 $ sudo apt install nodejs
 $ sudo apt install npm
 $ nodejs -v
 ```
-2. Install `nodejs` and `npm`, verify the installation version of `nodejs`
 3. From a terminal, enter into `affinidi-hackathon-issuer` folder, install dependencies and packages, copy the `.env.example` into a new `.env` file
 ```
 $ cd affinidi-hackathon-issuer/
