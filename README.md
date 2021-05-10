@@ -1,5 +1,5 @@
 # affinidi-pocathon-2021
-KYC data as Verifiable Credentials for insurance policy documents
+An AI chatbot-enabled messaging platform facilitating transfer of Know-Your-Customer data as Verifiable Credentials and performing KYC verification before releasing sensitive policy documents.
 
 ## How to run
 ```
