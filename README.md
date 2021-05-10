@@ -2,23 +2,29 @@
 KYC data as Verifiable Credentials for insurance policy documents
 
 ## How to run
-1. Enter into `affinidi-hackathon-issuer` folder and copy the `.env.example` into a new `.env` file
+```
+$ git clone 
+```
+1. From a terminal, enter into `affinidi-hackathon-issuer` folder, install dependencies and packages, copy the `.env.example` into a new `.env` file
 ```
 $ cd affinidi-hackathon-issuer/
+$ npm install
 $ cp .env.example .env
 ```
 2. Populate credentials in `.env` according to `.env.example`
 3. Run `npm start`
-4. Enter into `affinidi-hackathon-holder` folder and copy the `.env.example` into a new `.env` file
+4. Start a new terminal, enter into `affinidi-hackathon-holder` folder, install dependencies and packages, copy the `.env.example` into a new `.env` file
 ```
-$ cd affinidi-hackathon-holder/
+$ cd ../affinidi-hackathon-holder/
+$ npm install
 $ cp .env.example .env
 ```
 5. Populate credentials in `.env` according to `.env.example`
 6. Run `npm start`
-7. Enter into `affinidi-hackathon-telegram-bot-verifier` folder and copy the `.env.example` into a new `.env` file
+7. Start a new terminal, enter into `affinidi-hackathon-telegram-bot-verifier` folder, install dependencies and packages, copy the `.env.example` into a new `.env` file
 ```
-$ cd affinidi-hackathon-telegram-bot-verifier/
+$ cd ../affinidi-hackathon-telegram-bot-verifier/
+$ npm install
 $ cp .env.example .env
 ```
 8. Populate credentials in `.env` according to `.env.example`
